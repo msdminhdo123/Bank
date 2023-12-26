@@ -1,12 +1,12 @@
-##Bank
+## Bank
 
 The purpose of this application is to help businesses manage their customers. 
 
-##Functionalities
+## Functionalities
 
 The users can find the sum, average, information about a particular customer, and display a list of customers. 
 
-##How to use this application.
+## How to use this application.
 
 1. Type "javac Main.java" to the console
 2. Type "java Main" to the console
